@@ -8,10 +8,10 @@ Submissions are evaluated on **Accuracy Score** between the predicted and the ac
 Mobile Data Source: https://www.91mobiles.com/
 
 
-#Evaluation
+# Evaluation
 The evaluation metric for this competition is Accuracy Score.
 
-#Submission Format
+# Submission Format
 For every data point, submission files should contain two columns: PhoneId and Class. The class value should be either 0 (UNLIKE) or 1 (LIKE).
 
 The file should contain a header and have the following format:
